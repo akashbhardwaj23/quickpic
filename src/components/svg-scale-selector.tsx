@@ -94,7 +94,7 @@ export function SVGScaleSelector({
               );
               onCustomValueChange?.(clampedValue);
             }}
-            className="w-24 rounded-lg bg-white/5 px-3 py-1.5 text-sm text-white"
+            className="w-32 rounded-lg bg-white/5 px-3 py-1.5 text-sm text-white"
             placeholder="Enter scale"
           />
         )}
